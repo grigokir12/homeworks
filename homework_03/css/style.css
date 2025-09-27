@@ -1,0 +1,68 @@
+@import url(reset.css);
+
+body{
+	background: linear-gradient(45deg, #aba5e5, #80d1a5);
+	background-size: cover;
+}
+.main-title {
+	color: rgba(29, 29, 201, 0.521);
+	text-transform: uppercase;
+	font-size:55px;
+	padding-bottom: 40px;
+}
+
+.list_catalogue_item > ul {
+	padding: 5px 0;
+	color: rgb(49, 13, 159);
+	text-decoration-line: underline;
+	text-decoration-color:rgb(234, 11, 11);
+}
+
+.list_catalogue_item ~ p {
+	color: black;
+	font-size: 25px;
+	padding:20px 0 20px 10px ;
+
+}
+
+.start-title{
+	color: lightslategray;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 25px;
+
+
+}
+
+.list_castle {
+	color: rgb(255, 255, 255);
+	font-size: x-large;
+	padding-bottom: 35px;
+}
+
+* h2 {
+	text-transform: uppercase;
+	color: rgb(234, 7, 7);
+	font-size: 25px
+}
+
+[class*="view"] {
+	width: 70%;
+	border-radius: 35px;
+	padding-bottom: 20px;
+}
+.castle-description {
+	color: rgb(248, 248, 248);
+	line-height: 29px;
+}
+span {
+	color: rgb(0, 0, 0);
+}
+.footer-bottom {
+	color: rgb(198, 63, 169);
+	text-transform: uppercase;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	border-color: black;
+	padding-bottom: 100px;
+}
+
