@@ -1,0 +1,172 @@
+@import url("reset.css");
+
+@import url("fonts.css");
+/* remote connected fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rubik%20Scribble:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@400&display=swap');
+
+/* local connected fonts */
+@font-face {
+	font-family: 'QuorgaR';
+	src: url('../fonts/QuorgaR.woff') format('woff2'),
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ZinaR';
+	src: url('../fonts/ZinaR.woff2') format('woff2'),
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "BigJohnPro";
+	src: url('../fonts/BigJohnPro.woff') format('woff2'),
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "GoldenBlade";
+	src: url('../fonts/GoldenBlade.woff2') format('woff2'),
+	font-weight: 600;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "AmericanVintage";
+	src: url('../fonts/AmericanVintage.woff2') format('woff2'),
+	font-weight: 400;
+	font-display: swap;
+	font-style: normal;
+}
+/* ????////////////???? ////////////???? ////////////???? ////////////???? ////////////???? //////////// */
+/* ????////////////???? ////////////???? ////////////???? ////////////???? ////////////???? //////////// */
+/* ????////////////???? ////////////???? ////////////???? ////////////???? ////////////???? //////////// */
+/* ????////////////???? ////////////???? ////////////???? ////////////???? ////////////???? //////////// */
+.main-title,
+.nav-to-top {
+	font-family: "Rubik Scribble", serif;
+	font-weight: 900;
+	font-size: 57px;
+	letter-spacing: 2.8px;
+	color:#000000fb;
+	text-shadow: 7px 6px 1px #CCCCCC, 4px 2px 1px #ff8c00;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+ol>li {
+	color: blue;
+	font-family: "AmericanVintage", serif;
+	font-weight: 400;
+	font-size: 28px;
+	padding-left: 12px;
+}
+
+.main-content {
+	font-family: "QuorgaR", serif;
+	font-weight: 400;
+	color: #08cdfa;
+}
+.main-content h2 {
+	font-family: "GoldenBlade", serif;
+	font-weight: 900;
+	font-size: 24px;
+	color: #120c64;
+	text-decoration: underline;
+	text-decoration-color: aqua;
+	padding: 10px 0 10px 12px;
+
+}
+
+.header-list * {
+	font-family: "Tourney", serif;
+	font-weight: 400;
+	font-size: 22px;
+	text-decoration-line: underline;
+	text-decoration-color: rgb(237, 95, 0.7);
+	padding-left: 12px;
+}
+
+.link-item_a {
+	color: #8397e5;
+}
+.link-item_b {
+	color: #94a0d9;
+}
+.link-item_c {
+	color: #a2a9cd;
+}
+.link-item_d {
+	color: #afb2c1;
+}
+.link-item_e {
+	color: #c3c4a7;
+}
+
+
+
+
+
+.visit-item-a {
+		color: #000080;
+	}
+.visit-item-b {
+		color: #3c4751;
+	}
+.visit-item-c {
+		color: #395a3f;
+	}
+.visit-item-d {
+		color: #2d6d2a;
+	}
+.visit-item-e {
+		color: #008000;
+	}
+
+/* [class*="-item-"] {
+		} */
+
+.article-d p {
+	font-family:"Akaya Kanadaka", serif;
+	color: rgba(13, 196, 175, 0.703);
+	font-size: 16px;
+}
+
+.nav-to-top {
+	font-size: 30px;
+
+}
+
+
+
+
+    
+
+
+
+/*
+bb918b+
+997772+
+795f5b
+5a4744
+3c302f
+211c1b
+000000
+*/
+
+/*
+8397e5
+94a0d9
+a2a9cd
+afb2c1
+b9bbb4
+c3c4a7
+ccce9a */
+
