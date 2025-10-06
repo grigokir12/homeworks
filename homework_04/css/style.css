@@ -8,40 +8,40 @@
 /* local connected fonts */
 @font-face {
 	font-family: 'QuorgaR';
-	src: url('../fonts/QuorgaR.woff') format('woff2'),;
-	font-weight: 400;
+	src: url('../fonts/QuorgaR.woff') format('woff2');
+	font-weight:400;
 	font-display: swap;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'ZinaR';
-	src: url('../fonts/ZinaR.woff2') format('woff2'),;
-	font-weight: 400;
-	font-display: swap;
-	font-style: normal;
+	src: url('../fonts/ZinaR.woff2') format('woff2');
+	font-weight:400;
+	font-display:swap;
+	font-style:normal;
 }
 
 @font-face {
 	font-family: "BigJohnPro";
-	src: url('../fonts/BigJohnPro.woff') format('woff2'),;
-	font-weight: 400;
+	src: url('../fonts/BigJohnPro.woff') format('woff2');
+	font-weight:400;
 	font-display: swap;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "GoldenBlade";
-	src: url('../fonts/GoldenBlade.woff2') format('woff2'),;
-	font-weight: 600;
-	font-display: swap;
+	src: url('../fonts/GoldenBlade.woff2') format('woff2');
+	font-weight:600;
+	font-display:swap;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "AmericanVintage";
-	src: url('../fonts/AmericanVintage.woff2') format('woff2'),;
-	font-weight: 400;
+	src: url('../fonts/AmericanVintage.woff2') format('woff2');
+	font-weight:400;
 	font-display: swap;
 	font-style: normal;
 }
