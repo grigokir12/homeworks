@@ -1,0 +1,70 @@
+/* Скидання стилів */
+@import url("reset.css");
+
+/* Локальне підключення шрифтів */
+@import url("fonts.css");
+
+
+
+body {
+	font-family: "Lato-Medium", sans-serif;
+	color: #2F302C;
+	line-height: 1.25;
+	font-size: 16px;
+}
+
+
+.section {
+	max-width: 1920px;
+}
+.wrapper {
+	max-width: 1180px;
+	margin: 0 auto;
+}
+
+.main-title {
+	font-family: "Lato-Heavy", sans-serif;
+	text-transform: uppercase;
+	font-size: 32px;
+	font-weight: 800;
+	/* color: #7E7F7C; */
+	text-align: center;
+	margin: 82px 0 72px;
+}
+
+.wrapper-cards {
+	/* max-width: 1180px; */
+	font-size: 0;
+	margin: 0 -34px 68px;
+
+}
+
+.card {
+	text-align: center;
+	display: inline-block;
+	width: 33.333%; 
+	vertical-align: top;
+	font-size: 16px;
+	padding: 0 34px;
+}
+.image,
+.card p {
+	margin-bottom: 24px;
+}
+
+.text > p {
+	font-family: "Lato-Medium", sans-serif;
+	font-weight: 500;
+	color: #7E7F7C;
+}
+
+.title > p {
+	font-family: "Lato", sans-serif;
+	text-transform: uppercase;
+	
+}
+
+/* font-family: Lato,
+sans-serif;
+font-weight: 700;
+color: #7E7F7C; */
